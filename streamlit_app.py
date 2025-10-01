@@ -1,11 +1,4 @@
 
-import streamlit as st
-import matplotlib.pyplot as plt
-import numpy as np
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
-from reportlab.lib.styles import getSampleStyleSheet
-import io
-
 st.set_page_config(page_title="Body na kružnici", page_icon="⭕")
 
 st.title("Body na kružnici")
